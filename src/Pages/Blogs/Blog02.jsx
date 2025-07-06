@@ -24,7 +24,7 @@ const Blog02 = () => {
         {
             id: '4',
             img: 'images/blog/b6.png',
-            title: 'Diversity in Building Celebrated by Builderrine',
+            title: 'Diversity in Building Celebrated by Freedom forest Mangement',
         },
         {
             id: '5',

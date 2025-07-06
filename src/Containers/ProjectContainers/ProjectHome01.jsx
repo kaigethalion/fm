@@ -78,7 +78,7 @@ const ProjectHome01 = () => {
           <div className="shadow_icon">
             <img src="images/about/shadow_icon1.png" alt="" />
           </div>
-          <h6 className="section_sub_title">ABOUT BUILDERRINE CONSTRUCTION</h6>
+          <h6 className="section_sub_title">ABOUT Freedom Forest Mangement</h6>
           <h1
             
             className="section_title"

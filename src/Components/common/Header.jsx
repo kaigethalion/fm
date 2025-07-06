@@ -42,8 +42,8 @@ const Header = () => {
                                     <div className="d-none d-md-block"><span><i className="fa fa-clock-o"></i></span> Monday - Friday <strong>(9.00am - 9.00pm)</strong></div>
                                 </div>
                                 <div className="schedule">
-                                    <div className="hide_icon d-md-none" data-text="builderrine@gmail.com"> <span><i className="fa fa-envelope"></i></span></div>
-                                    <div className="d-none d-md-block"><span><i className="fa fa-envelope"></i></span> builderrine@gmail.com</div>
+                                    <div className="hide_icon d-md-none" data-text="freedomforestmangement@gmail.com"> <span><i className="fa fa-envelope"></i></span></div>
+                                    <div className="d-none d-md-block"><span><i className="fa fa-envelope"></i></span> freedomforestmangement@gmail.com</div>
                                 </div>
                                 <div className="free_contact">
                                     <a href="/contact" className="btn">Request Free Quote</a>
@@ -57,8 +57,8 @@ const Header = () => {
                     <div className="container">
                         <div className="middle_bar_inner">
                             <div className="logo">
-                                <a href="/" className="light_mode_logo"><img src="images/logo.svg" alt="logo" /></a>
-                                <a href="/" className="dark_mode_logo"><img src="images/logo_foot.svg" alt="logo" /></a>
+                                <a href="/" className="light_mode_logo"><img src="file:///Users/kaigedalion/Freedom%20Forest%20Management%20Logo%20PRINT.PNG" alt="logo" /></a>
+                                <a href="/" className="dark_mode_logo"><img src="file:///Users/kaigedalion/Freedom%20Forest%20Management%20Logo%20PRINT.PNG" alt="logo" /></a>
                             </div>
 
                             <div className="header_right_part">
@@ -114,7 +114,7 @@ const Header = () => {
                                 </div>
                                 <div className="phone">
                                     <i className="fa fa-phone" aria-hidden="true"></i>
-                                    <div><span>Call Us Anytime</span><br /><span className="phn_number">(+123)987.654.32</span></div>
+                                    <div><span>Call Us Anytime</span><br /><span className="phn_number">We at yo momma house</span></div>
                                 </div>
                                 <div className='header_search' onClick={handleToggle}>
                                     <button type="submit" className="form-control-submit"><i className="ion-ios-search"></i></button>

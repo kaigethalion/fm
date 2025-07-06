@@ -8,11 +8,11 @@ const Slider = () => {
                     <div className="row">
                         <div className="col-lg-6">
                             <div className="slide_content">
-                                <h5 className="sub_heading">CALL US ANYTIME<span> +99 (1234) 56 789</span></h5>
-                                <h2 className="heading">Where You Find Best Builders</h2>
-                                <p className="desc">Safe, Reliable and Cost Effective Construction company. We offer best construction Services.</p>
+                                <h5 className="sub_heading">CALL US ANYTIME<span> we at yo momma house</span></h5>
+                                <h2 className="heading">Freedom Forest Mangement</h2>
+                                <p className="desc"> Where You Find The Best Builders Safe, Reliable and Cost Effective Construction company. We offer best construction Services.</p>
                                 <div className="slider_button">
-                                    <a href="/about" className="button">Learn More</a>
+                                    <a href="/about" className="button">Cash Me Outside</a>
                                 </div>
                             </div>
                         </div>

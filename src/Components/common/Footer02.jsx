@@ -22,8 +22,8 @@ const Footer02 = () => {
                                 </div>
                                 <div className="contact_content">
                                     <h6>Mail Address</h6>
-                                    <p>builderrine21@gmail.com</p>
-                                    <p>support.builderrine22@gmail.com</p>
+                                    <p>freedomforestmangement@gmail.com</p>
+                                    <p>support.Freedomforestmangement@gmail.com</p>
                                 </div>
                             </div>
                             <div className="footer_contact_inner">
@@ -40,9 +40,9 @@ const Footer02 = () => {
                         <div className="col-lg-4 col-md-6 col-sm-12">
                             <div className="footer_widget2">
                                 <div className="logo">
-                                    <a href="/"><img src="images/logo_foot.svg" alt="Logo" /></a>
+                                    <a href="/"><img src="file:///Users/kaigedalion/Freedom%20Forest%20Management%20Logo%20PRINT.PNG" alt="Logo" /></a>
                                 </div>
-                                <p>Who are looking for Extraordinary projects need vision & precision to be exceptional. They need Builderrine Construction Services.</p>
+                                <p>Who are looking for Extraordinary projects need vision & precision to be exceptional. They need Freedom Forest Mangement.</p>
                                 <div className="side_footer_social">
                                     <ul className="bottom_social">
                                         <li className="facebook"><a href="#"><i className="ion-social-facebook"></i></a></li>

@@ -6,8 +6,8 @@
 }
 body {
     font-family: 'Poppins', sans-serif;
-    color: #fff;
-    background: #1a406d;
+    color: #9b9494;
+    background: #063b7b;
     transition: all 0.5s ease-in-out;
     font-weight: 300;
 }
@@ -15,32 +15,32 @@ img{
     max-width: 100%;
 }
 ::-moz-selection {
- background: #ffa903;
+ background: #868584;
 }
 ::selection {
-	background: #ffa903;
+	background: #868584;
 }
 b, strong {
     font-weight: 400;
-    color: #ffa903;
+    color: #868584;
 }
 .navbar-inverse {
     padding: 10px 0px;
-    border-bottom: 1px solid #ffa903;
+    border-bottom: 1px solid #868584;
     margin-bottom: 1px;
 }
 .navbar-inverse .navbar-brand {
-    color: #ffa903;
+    color: #868584;
 }
 .navbar-inverse .navbar-nav li a {
-    color: #ffa903;
+    color: #868584;
 }
 .nav li a {
     text-decoration: none;
     font-weight: 400;
 }
 #masthead {
-    background-color: #ffa903;
+    background-color: #868584;
     padding: 15px 0px;
     
 }
@@ -54,7 +54,7 @@ b, strong {
     transition: all 0.5s ease-in-out;
 }
 .side-nav li a {
-    background-color: #fafafa;
+    background-color: #920606;
     position: relative;
     display: block;
     padding: 10px 15px;
@@ -67,12 +67,12 @@ b, strong {
 
 .side-nav li a:hover, .side-nav li a:focus {
     text-decoration: none;
-    background-color: #ffa903;
-    color: #fff;
+    background-color: #868584;
+    color: #a30808;
     border-radius: 3px;
 }
 .navbar-bright {
-	background-color:#ffa903;
+	background-color:#868584;
     color:#fff;
     
 }

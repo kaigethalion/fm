@@ -45,7 +45,7 @@ const Testimonial01 = (props) => {
                     <div className="shadow_icon"><img src="images/shadow_icon3.png" alt="" /></div>
                     <h6 className="section_sub_title">Clients testimonial</h6>
                     <h1 className="section_title">What our clients say about us</h1>
-                    <p className="section_desc">Builderrine is the best construction company. It has best team who are provideing best service possible.</p>
+                    <p className="section_desc">Freedom Forest Mangement is the best construction company. It has best team who are provideing best service possible.</p>
                 </div>
                 <div className="row">
                     <div className="col-12">

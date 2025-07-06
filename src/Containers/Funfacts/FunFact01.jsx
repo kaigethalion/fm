@@ -36,7 +36,7 @@ const FunFact01 = () => {
                 <div className="row">
                     <div className="col-lg-8">
                         <div className="section_header">
-                            <h6 className="section_sub_title">FUNFACTS OF BUILDERRINE CONSTRUCTION</h6>
+                            <h6 className="section_sub_title">FUNFACTS OF Freedom Forest Mangement</h6>
                             <h1 className="section_title">Our Fact Speaks about the result of our Effort</h1>
                         </div>
                         <div className="fun_bottom">

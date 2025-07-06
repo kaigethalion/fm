@@ -9,8 +9,8 @@ const Blog01 = () => {
             id: '1',
             img: 'images/blog/b6.png',
             blogClass: 'col-lg-4 col-md-6',
-            title: 'Diversity in Building Celebrated by Builderrine',
-            description: 'Builderrine will connect with 10000 people from 90 companies who work on its’ projects each day...'
+            title: 'Diversity in Building Celebrated by Freedom Forest Mangement',
+            description: 'Freedom Forest Mangement will connect with 10000 people from 90 companies who work on its’ projects each day...'
         },
         {
             id: '2',

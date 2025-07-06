@@ -6,10 +6,10 @@ const LatestNews = () => {
             <div className="section_header text-left">
                 <h6 className="section_sub_title">Latest News</h6>
                 <h1 className="section_title">Our Latest News</h1>
-                <p className="section_desc">Builderrine is the best construction company. It has best team who are provideing best service possible.</p>
+                <p className="section_desc">Freedom Forest Mangement is Hands down The Best. It has best team who are provideing best service possible.</p>
             </div>
             <div className="read_more read_all">
-                <a className="button" href="blog-1">Learn More</a>
+                <a className="button" href="blog-1">Cash Me Ouside</a>
             </div>
         </div>
     );

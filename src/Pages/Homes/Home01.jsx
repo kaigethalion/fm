@@ -20,9 +20,9 @@ const Home01 = () => {
             <ProjectHome01 />
 
             <Banner
-                title='Builderrine is proud to serve you 24/7. Just Call Us when you need'
+                title='Freedom forest Mangement is proud to serve you 24/7. Just Call Us when you need'
                 heading='Call Us Anytime'
-                phone='+99 (1234) 56 789'
+                phone='we at yo momma house'
                 bannerType='banner type_3'
             />
 

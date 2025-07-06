@@ -1456,7 +1456,7 @@ textarea.form-control:focus {
 
 .header .top_bar {
   position: relative;
-  border-bottom: 1px solid #ECECEC;
+  border-bottom: 1px solid #cc1010;
   z-index: 2;
 }
 

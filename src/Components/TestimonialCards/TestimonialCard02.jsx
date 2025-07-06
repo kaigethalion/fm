@@ -30,7 +30,7 @@ const TestimonialCard02 = ({ data }) => {
                                             <li><i className="fa fa-star"></i></li>
                                             <li><i className="fa fa-star-o"></i></li>
                                         </ul>
-                                        <p>“Builderrine Construction provides us amazing serives. The have designed and build our Miami grand Hotel project. They have exceeded our expectation and did such an amazing job. We are very happy with their work”</p>
+                                        <p>“Freedom Forest Mangement provides us amazing serives. The have designed and build our Miami grand Hotel project. They have exceeded our expectation and did such an amazing job. We are very happy with their work”</p>
                                     </div>
                                     <div className="testi-top">
                                         <div className="testi-info_others">

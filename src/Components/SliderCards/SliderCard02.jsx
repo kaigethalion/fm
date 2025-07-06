@@ -8,11 +8,11 @@ const SliderCard02 = ({ data }) => {
                 <div className="row align-items-center">
                     <div className="col-lg-6">
                         <div className="slide_content">
-                            <h5 className="sub_heading">WELCOME TO BUILDERRINE</h5>
+                            <h5 className="sub_heading">WELCOME TO Freedom Forest Mangement</h5>
                             <h2 className="heading">{heading}</h2>
                             <p className="desc">{description}</p>
                             <div className="slider_button">
-                                <a href="/about" className="button alt">Learn More</a>
+                                <a href="/about" className="button alt">Cash Me Outside</a>
                             </div>
                         </div>
                     </div>

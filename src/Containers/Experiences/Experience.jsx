@@ -5,7 +5,7 @@ const Experience = () => {
     const headerData = {
         img: 'images/about/shadow_icon1.png',
         heading: 'Building A New Era in world of Construction',
-        subheading: 'ABOUT BUILDERRINE CONSTRUCTION',
+        subheading: 'ABOUT Freedom Forest Mangement',
     };
 
     const ExpericenData = [
@@ -18,7 +18,7 @@ const Experience = () => {
         {
             id: '2',
             title: 'Cost Effective',
-            description: 'Builderrine is famous for its cost effectiveness'
+            description: 'Freedom Forest Mangement is famous for its cost effectiveness'
         },
     ];
 
@@ -51,7 +51,7 @@ const Experience = () => {
                                 <div className="shadow_icon"><img src={headerData.img} alt="" /></div>
                                 <h6 className="section_sub_title">{headerData.subheading}</h6>
                                 <h1 className="section_title">{headerData.heading}</h1>
-                                <p className="section_desc">Builderrine is the safe, reliable and cost effective construction company. We offer best construction Services. We have more than 35 years of experience in the field of building & construction. If you want to build any highrise or housing projects, you are in the best palce right now</p>
+                                <p className="section_desc">Freedom Forest Mangement is the safe, reliable and cost effective construction company. We offer best construction Services. We have more than 35 years of experience in the field of building & construction. If you want to build any highrise or housing projects, you are in the best palce right now</p>
                                 <div className="about_below">
                                     {
                                         ExpericenData.map(data =>

@@ -4,21 +4,21 @@ import AboutBelowContent02 from '../../Components/ExperienceBlocks/AboutBelowCon
 const ExperienceAbout = () => {
     const headerData = {
         heading: 'Building Dream into Reality',
-        subheading: 'ABOUT BUILDERRINE CONSTRUCTION',
+        subheading: 'ABOUT Freedom Forest Mangement',
     };
 
     const ExpericenData = [
         {
             id: '1',
             title: 'Our Mission',
-            description: 'Builderrine is the safe, reliable and cost effective builder company. We offer best construction Services.',
+            description: 'Freedom Forest Mangement is the safe, reliable and cost effective builder company. We offer best construction Services.',
             img: 'images/about/t1.png'
 
         },
         {
             id: '2',
             title: 'Our Vision',
-            description: 'Builderrine is the safe, reliable and cost effective builder company. We offer best construction Services.',
+            description: 'Freedom Forest Mangement is the safe, reliable and cost effective builder company. We offer best construction Services.',
             img: 'images/about/t2.png'
         },
     ];
@@ -48,7 +48,7 @@ const ExperienceAbout = () => {
                             <div className="section_header">
                                 <h6 className="section_sub_title">{headerData.subheading}</h6>
                                 <h1 className="section_title">{headerData.heading}</h1>
-                                <p className="section_desc">Builderrine is the safe, reliable and cost effective construction company. We offer best construction Services. We have more than 35 years of experience in the field of building & construction. If yo</p>
+                                <p className="section_desc">Freedom Forest Mangement is the safe, reliable and cost effective construction company. We offer best construction Services. We have more than 35 years of experience in the field of building & construction. If yo</p>
                                 <div className="about_below">
                                     {
                                         ExpericenData.map(data =>
@@ -60,7 +60,7 @@ const ExperienceAbout = () => {
                                     }
                                 </div>
                             </div>
-                            <a className="button" href="/about">Learn More</a>
+                            <a className="button" href="/about">Cash Me Outside</a>
                         </div>
                     </div>
                 </div>

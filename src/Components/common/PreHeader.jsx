@@ -21,8 +21,8 @@ const PreHeader = () => {
                             <div className="d-none d-md-block"><span><i className="fa fa-clock-o"></i></span> Monday - Friday <strong>(9.00am - 9.00pm)</strong></div>
                         </div>
                         <div className="schedule">
-                            <div className="hide_icon d-md-none" data-text="builderrine@gmail.com"> <span><i className="fa fa-envelope"></i></span></div>
-                            <div className="d-none d-md-block"><span><i className="fa fa-envelope"></i></span> builderrine@gmail.com</div>
+                            <div className="hide_icon d-md-none" data-text="freedomforestmangement@gmail.com"> <span><i className="fa fa-envelope"></i></span></div>
+                            <div className="d-none d-md-block"><span><i className="fa fa-envelope"></i></span> freedomforestmangement@gmail.com</div>
                         </div>
                         <div className="free_contact">
                             <a href="contact" className="btn">Request Free Quote</a>

@@ -6,26 +6,26 @@
  */
 :root {
   --blue: #007bff;
-  --indigo: #6610f2;
-  --purple: #6f42c1;
-  --pink: #e83e8c;
-  --red: #dc3545;
-  --orange: #fd7e14;
+  --indigo: #0b02b2;
+  --purple: #a90606;
+  --pink: #050db2;
+  --red: #be081a;
+  --orange: #b11106;
   --yellow: #ffc107;
-  --green: #28a745;
-  --teal: #20c997;
-  --cyan: #17a2b8;
+  --green: #040ca3;
+  --teal: #d52b09;
+  --cyan: #042df9;
   --white: #fff;
-  --gray: #6c757d;
+  --gray: #0c1ebd;
   --gray-dark: #343a40;
   --primary: #007bff;
-  --secondary: #6c757d;
-  --success: #28a745;
-  --info: #17a2b8;
+  --secondary: #000000;
+  --success: #b02525;
+  --info: #ffffff;
   --warning: #ffc107;
   --danger: #dc3545;
-  --light: #f8f9fa;
-  --dark: #343a40;
+  --light: #060694;
+  --dark: #dd9d07;
   --breakpoint-xs: 0;
   --breakpoint-sm: 576px;
   --breakpoint-md: 768px;
@@ -47,7 +47,7 @@ html {
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   -ms-overflow-style: scrollbar;
-  -webkit-tap-highlight-color: transparent;
+  -webkit-tap-highlight-color: blue;
 }
 
 @-ms-viewport {
@@ -64,7 +64,7 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #212529;
+  color: #ac0303;
   text-align: left;
   background-color: #fff;
 }
@@ -161,14 +161,14 @@ sup {
 }
 
 a {
-  color: #007bff;
+  color: #a20606;
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
 }
 
 a:hover {
-  color: #0056b3;
+  color: #a20606;
   text-decoration: underline;
 }
 
@@ -221,7 +221,7 @@ table {
 caption {
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
-  color: #6c757d;
+  color: #a20606;
   text-align: left;
   caption-side: bottom;
 }
@@ -424,7 +424,7 @@ hr {
   margin-top: 1rem;
   margin-bottom: 1rem;
   border: 0;
-  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  border-top: 1px solid rgba(3, 22, 144, 0.1);
 }
 
 small,
@@ -436,7 +436,7 @@ small,
 mark,
 .mark {
   padding: 0.2em;
-  background-color: #fcf8e3;
+  background-color: #a20606;
 }
 
 .list-unstyled {
@@ -470,7 +470,7 @@ mark,
 .blockquote-footer {
   display: block;
   font-size: 80%;
-  color: #6c757d;
+  color: #a10e01;
 }
 
 .blockquote-footer::before {
@@ -484,8 +484,8 @@ mark,
 
 .img-thumbnail {
   padding: 0.25rem;
-  background-color: #fff;
-  border: 1px solid #dee2e6;
+  background-color: #b80505;
+  border: 1px solid #090ca9;
   border-radius: 0.25rem;
   max-width: 100%;
   height: auto;

@@ -9,14 +9,14 @@ const ServiceContainer01 = () => {
             img: 'images/services/s4.png',
             img02: 'images/services/Service_Hover_images/1.jpg',
             tag: 'COMMERTIAL DESIGN',
-            title: 'Builderrine is the safe, reliable & cost effective construction company.'
+            title: 'Freedom Forest Mangement is the safe, reliable & cost effective construction company.'
         },
         {
             id: '2',
             img: 'images/services/s5.png',
             img02: 'images/services/Service_Hover_images/2.jpg',
             tag: 'REAL ESTATE',
-            title: 'Builderrine Construction Company Receives Industry Recognition.'
+            title: 'Freedom Forest Mangement Receives Industry Recognition.'
         },
         {
             id: '3',
@@ -30,28 +30,28 @@ const ServiceContainer01 = () => {
             img: 'images/services/s6.png',
             img02: 'images/services/Service_Hover_images/4.jpg',
             tag: 'HIGHRISE BUILDING',
-            title: 'Builderrine is the safe, reliable & cost effective construction company.'
+            title: 'Freedom Forest Mangement is the safe, reliable & cost effective construction company.'
         },
         {
             id: '5',
             img: 'images/services/s4.png',
             img02: 'images/services/Service_Hover_images/5.jpg',
             tag: 'HIGHRISE BUILDING',
-            title: 'Builderrine is proud to join other companies and organizations.'
+            title: 'Freedom Forest Mangement is proud to join other companies and organizations.'
         },
         {
             id: '6',
             img: 'images/services/s9.png',
             img02: 'images/services/Service_Hover_images/6.jpg',
             tag: 'INDUSTRIAL PLANT',
-            title: 'Builderrine is the safe, reliable & cost effective construction company.'
+            title: 'Freedom Forest Mangement is the safe, reliable & cost effective construction company.'
         },
         {
             id: '7',
             img: 'images/services/s11.png',
             img02: 'images/services/Service_Hover_images/8.jpg',
             tag: 'RENEWABLE ENERGY',
-            title: 'Builderrine Construction Company Receives Industry Recognition.'
+            title: 'Freedom Forest Mangement Receives Industry Recognition.'
         },
         {
             id: '8',
@@ -65,7 +65,7 @@ const ServiceContainer01 = () => {
             img: 'images/services/s12.png',
             img02: 'images/services/Service_Hover_images/9.jpg',
             tag: 'BLUEPRINT DESIGN',
-            title: 'Builderrine is proud to join other companies and organizations.'
+            title: 'Freedom Forest Mangement is proud to join other companies and organizations.'
         },
     ];
 

@@ -32,7 +32,7 @@ const ContactForm02 = () => {
                     </div>
                     <div className="col-md-12 col-lg-12">
                         <div className="form-group">
-                            <input className="button" type="submit" value="Learn More" name="submit" />
+                            <input className="button" type="submit" value="Cash Me Out" name="submit" />
                         </div>
                     </div>
                 </div>

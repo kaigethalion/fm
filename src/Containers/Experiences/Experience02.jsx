@@ -3,8 +3,8 @@ import React from 'react';
 const Experience02 = () => {
     const headerData = {
         heading: 'Building Dream into Reality',
-        subheading: 'ABOUT BUILDERRINE CONSTRUCTION',
-        detail: 'Builderrine is the safe and cost effective construction company. We offer best construction Services. Trust Us with your project.',
+        subheading: 'ABOUT Freedom Forest Mangement',
+        detail: 'Fredom Forest Mangement is the safe and cost effective construction company. We offer best construction Services. Trust Us with your project.',
         img: 'images/about/call_img.png',
     };
     return (
@@ -23,13 +23,13 @@ const Experience02 = () => {
                                     <h6 className="section_sub_title">{headerData.subheading}</h6>
                                     <h1 className="section_title">{headerData.heading}</h1>
                                     <p className="short_detail">{headerData.detail}</p>
-                                    <p className="section_desc">Builderrine is the safe, reliable and cost effective construction company. We offer best construction Services. We have more than 35 years of experience in the field of building & construction. If you want to build any highrise or housing projects, you are in the best palce right now</p>
+                                    <p className="section_desc">Freedom Forest Mangement is the safe, reliable and cost effective construction company. We offer best construction Services. We have more than 35 years of experience in the field of building & construction. If you want to build any highrise or housing projects, you are in the best palce right now</p>
                                     <div className="section_call">
                                         <div className="call_image">
                                             <img src={headerData.img} alt="" />
                                         </div>
                                         <div className="call_info">
-                                            <p>Call Us anytime tou want.We are <span>available 24/7</span></p>
+                                            <p>Call Us anytime We at Yo<span>Mommma's 24/7</span></p>
                                             <h4>321-654-6780 <span>or</span> 321-654-6780</h4>
                                         </div>
                                     </div>

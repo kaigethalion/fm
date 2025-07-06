@@ -469,7 +469,7 @@ const ProjectHome02 = () => {
 
                     </div>
                     <div className="col-12 box_bottom">
-                        <p>If you want to see all the Builderrine projects,</p><a href="/project">Click Here</a>
+                        <p>If you want to see all the Freedom Forest Mangement projects,</p><a href="/project">Click Here</a>
                     </div>
                 </div>
             </div>

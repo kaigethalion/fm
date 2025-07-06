@@ -10,9 +10,9 @@ import Testimonial01 from '../Containers/Testimonials/Testimonial01';
 
 const About = () => {
     const AboutBannerData = {
-        title: 'Builderrine is proud to serve you 24/7. Just Call Us when you need',
+        title: 'Freedom Forest Mangement is proud to serve you 24/7. Just Call Us when you need',
         heading: 'Call Us Anytime',
-        phone: '+99 (1234) 56 789'
+        phone: 'we at yo momma house'
     }
     return (
         <>

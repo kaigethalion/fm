@@ -12,14 +12,14 @@ const Service02 = () => {
             img: 'images/services/s4.png',
             img02: 'images/services/Service_Hover_images/1.jpg',
             tag: 'COMMERTIAL DESIGN',
-            title: 'Builderrine is the safe, reliable & cost effective construction company.'
+            title: 'Freedom Forest Mangement is the safe, reliable & cost effective construction company.'
         },
         {
             id: '2',
             img: 'images/services/s5.png',
             img02: 'images/services/Service_Hover_images/2.jpg',
             tag: 'REAL ESTATE',
-            title: 'Builderrine Construction Company Receives Industry Recognition.'
+            title: 'Freedom forest Mangement Receives Industry Recognition.'
         },
         {
             id: '3',
@@ -33,14 +33,14 @@ const Service02 = () => {
             img: 'images/services/s6.png',
             img02: 'images/services/Service_Hover_images/4.jpg',
             tag: 'HIGHRISE BUILDING',
-            title: 'Builderrine is the safe, reliable & cost effective construction company.'
+            title: 'Freedom Forest Mangement is the safe, reliable & cost effective construction company.'
         },
         {
             id: '5',
             img: 'images/services/s4.png',
             img02: 'images/services/Service_Hover_images/5.jpg',
             tag: 'HIGHRISE BUILDING',
-            title: 'Builderrine is the safe, reliable & cost effective construction company.'
+            title: 'Fredom Forest Mangement is the safe, reliable & cost effective construction company.'
         },
     ];
 
