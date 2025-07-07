@@ -10,8 +10,8 @@ const ContactPage = () => {
             id: '1',
             iconClass: 'ion-ios-telephone-outline',
             infoBody01: 'Phone No',
-            infoBody02: '+33 987 654 321',
-            infoBody03: '+33 123 456 789',
+            infoBody02: '+1(333) 601- 4821',
+            infoBody03: '+1(333) 601- 4821',
         },
         {
             id: '2',
@@ -24,7 +24,7 @@ const ContactPage = () => {
             id: '3',
             iconClass: 'fa fa-map-marker',
             infoBody01: 'Office Address',
-            infoBody02: 'Gr. Benjamin Street 609<br /> Florida, USA',
+            infoBody02: 'Marina Del Rey<br /> California, USA',
             infoBodyClass: 'd-none',
         },
     ];
