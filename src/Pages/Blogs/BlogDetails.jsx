@@ -297,7 +297,7 @@ const BlogDetails = () => {
                                         <div className="sidebar_categories">
                                             <ul className="category_list">
                                                 <li className="active"><a href="project">Construction</a> (5)</li>
-                                                <li><a href="project-2">Highrise</a> (7)</li>
+                                                <li><a href="project-2">Palaise</a> (7)</li>
                                                 <li><a href="project-2">Technology</a> (4)</li>
                                                 <li><a href="project">Structure</a> (2)</li>
                                                 <li><a href="project-2">Accessorries</a> (4)</li>

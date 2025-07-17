@@ -11,7 +11,7 @@ const Service02 = () => {
             id: '1',
             img: 'images/services/s4.png',
             img02: 'images/services/Service_Hover_images/1.jpg',
-            tag: 'COMMERTIAL DESIGN',
+            tag: 'deaster relief',
             title: 'Freedom Forest Mangement is the safe, reliable & cost effective construction company.'
         },
         {
@@ -50,7 +50,7 @@ const Service02 = () => {
                 <div className="row">
                     <div className="col-lg-6">
                         <div className="section_header">
-                            <h6 className="section_sub_title">OUR SERVICES</h6>
+                            <h6 className="section_sub_title">My SERVICES</h6>
                             <h1 className="section_title">Perfect Services to Build Extraordinary Projects</h1>
                         </div>
                     </div>

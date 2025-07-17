@@ -151,7 +151,9 @@ const ServiceContainer03 = () => {
                                             </div>
                                         </div>
                                         <div className="side_phone_inner">
-                                            <div>(+123)987.654.32</div>
+                                            <div>(+123)123-4567
+                                            
+                                            </div>
                                         </div>
                                     </div>
                                 </div>

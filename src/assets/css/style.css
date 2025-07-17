@@ -4240,7 +4240,7 @@ video {
 
 .theme_slider_1 .slider {
   position: relative;
-  background-image: url("../../../public/images/slider/bg4.jpg");
+  background-image: url("");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -4345,11 +4345,11 @@ video {
 }
 
 .theme_slider_2 .swiper-slide:nth-child(1) .slider {
-  background-image: url("../../../public/images/slider/bg1.jpg");
+  background-image: url("");
 }
 
 .theme_slider_2 .swiper-slide:nth-child(2) .slider {
-  background-image: url("../../../public/images/slider/bg2.jpg");
+  background-image: url("");
 }
 
 .theme_slider_2 .floating_object {
@@ -9097,7 +9097,7 @@ video {
 }
 
 .dark-theme .theme_slider_1 .slider {
-  background-image: url("../../../public/images/slider/bg4.jpg");
+  background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.theatlantic.com%2Fphoto%2F2025%2F01%2Fphotos-palisades-fire-los-angeles-california%2F681241%2F&psig=AOvVaw2xYHn8vp2W2TeDZ_FKdr1u&ust=1752753033985000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCMir0IGowY4DFQAAAAAdAAAAABAE");
 }
 
 .dark-theme .theme_slider_1 .slider::before {
@@ -9105,11 +9105,11 @@ video {
 }
 
 .dark-theme .theme_slider_2 .swiper-slide:nth-child(1) .slider {
-  background-image: url("../../../public/images/slider/bg3.jpg");
+  background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.theatlantic.com%2Fphoto%2F2025%2F01%2Fphotos-palisades-fire-los-angeles-california%2F681241%2F&psig=AOvVaw2xYHn8vp2W2TeDZ_FKdr1u&ust=1752753033985000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCMir0IGowY4DFQAAAAAdAAAAABAE");
 }
 
 .dark-theme .theme_slider_2 .swiper-slide:nth-child(2) .slider {
-  background-image: url("../../../public/images/slider/bg1.jpg");
+  background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.theatlantic.com%2Fphoto%2F2025%2F01%2Fphotos-palisades-fire-los-angeles-california%2F681241%2F&psig=AOvVaw2xYHn8vp2W2TeDZ_FKdr1u&ust=1752753033985000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCMir0IGowY4DFQAAAAAdAAAAABAE");
 }
 
 .dark-theme .bg_1 {

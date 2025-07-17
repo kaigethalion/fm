@@ -72,7 +72,7 @@ const Header02 = () => {
                                 </div>
                                 <div className="phone phn_color">
                                     <i className="fa fa-phone" aria-hidden="true"></i>
-                                    <div><span>Call Us Anytime</span><br /><span className="phn_number">(+123)987.654.32</span></div>
+                                    <div><span>Call Us Anytime</span><br /><span className="phn_number">(+123)123-4567</span></div>
                                 </div>
                                 <div className="header_search" onClick={handleToggle}>
                                     <button type="submit" className="form-control-submit"><i className="ion-ios-search"></i></button>

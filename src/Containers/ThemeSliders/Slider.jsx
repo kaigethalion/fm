@@ -18,7 +18,7 @@ const Slider = () => {
                         </div>
                         <div className="col-lg-5 d-flex align-items-end">
                             <div className="layer_object">
-                                <img src="images/slider/layer_2.png" alt="" />
+                                <img src="" alt="" />
                             </div>
                         </div>
                     </div>

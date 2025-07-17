@@ -97,7 +97,7 @@ const FAQ = () => {
                 <Banner
                     title='Is Your House Secured Enough? Call Us to install Security Devices'
                     heading='Call Us Anytime'
-                    phone='(+123)987.654.32'
+                    phone='(+123)123-4567'
                     bannerType='banner banner_bg_color'
                 />
 
