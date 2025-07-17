@@ -13,7 +13,7 @@ const Slider = () => {
                 </h5>
                 <h2 className="heading">Freedom Forest Mangement</h2>
                 <p className="desc">
-                  {" "}
+                  {"/img/fireRelief.png "}
                   Where You Find The Best Builders Safe, Reliable and Cost
                   Effective Construction company. We offer best construction
                   Services.
@@ -28,8 +28,8 @@ const Slider = () => {
             </div>
             <div className="col-lg-5 d-flex align-items-end">
               <div className="layer_object"></div>
-                <div style={{ position: "absolute", zIndex: 10 }}>
-                  <img src="/img/Logo_ffm.png" alt="" />
+                <div style={{ position: "Center", zIndex: 10 }}>
+                  <img src="/img/fireRelief.png" alt="" />
                 </div>
             </div>
           </div>
