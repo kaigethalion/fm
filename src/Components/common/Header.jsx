@@ -57,8 +57,8 @@ const Header = () => {
                     <div className="container">
                         <div className="middle_bar_inner">
                             <div className="logo">
-                                <a href="/" className="light_mode_logo"><img src="file:///Users/kaigedalion/Freedom%20Forest%20Management%20Logo%20PRINT.PNG" alt="logo" /></a>
-                                <a href="/" className="dark_mode_logo"><img src="file:///Users/kaigedalion/Freedom%20Forest%20Management%20Logo%20PRINT.PNG" alt="logo" /></a>
+                                <a href="/" className="light_mode_logo"><img src="/images/Logo_ffm.png" alt="logo" /></a>
+                                <a href="/" className="dark_mode_logo"><img src="/images/Logo_ffm.png" alt="logo" /></a>
                             </div>
 
                             <div className="header_right_part">

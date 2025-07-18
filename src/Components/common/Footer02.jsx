@@ -40,7 +40,7 @@ const Footer02 = () => {
                         <div className="col-lg-4 col-md-6 col-sm-12">
                             <div className="footer_widget2">
                                 <div className="logo">
-                                    <a href="/"><img src="file:///Users/kaigedalion/Freedom%20Forest%20Management%20Logo%20PRINT.PNG" alt="Logo" /></a>
+                                    <a href="/"><img src="/images/logo_ffm.png" alt="Logo" /></a>
                                 </div>
                                 <p>Who are looking for Extraordinary projects need vision & precision to be exceptional. They need Freedom Forest Mangement.</p>
                                 <div className="side_footer_social">
@@ -93,7 +93,7 @@ const Footer02 = () => {
                 <div className="container">
                     <div className="footer_bottom_inner">
                         <div className="copyright">
-                            <p>&copy;2023 <a href="https://themeforest.net/user/wpthemebooster">WPThemeBooster.</a> All rights reserved.</p>
+                            <p>&copy;2025 <a href="https://dencoding.studio">DENcoding Studios Inc.</a> All rights reserved.</p>
                         </div>
                         <div className="footer_nav_bottom">
                             <ul>

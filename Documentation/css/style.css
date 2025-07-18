@@ -7,7 +7,7 @@
 body {
     font-family: 'Poppins', sans-serif;
     color: #9b9494;
-    background: #063b7b;
+    background: #034ca5;
     transition: all 0.5s ease-in-out;
     font-weight: 300;
 }
@@ -54,7 +54,7 @@ b, strong {
     transition: all 0.5s ease-in-out;
 }
 .side-nav li a {
-    background-color: #920606;
+    background-color: #bb0303;
     position: relative;
     display: block;
     padding: 10px 15px;
@@ -68,7 +68,7 @@ b, strong {
 .side-nav li a:hover, .side-nav li a:focus {
     text-decoration: none;
     background-color: #868584;
-    color: #a30808;
+    color: #d80505;
     border-radius: 3px;
 }
 .navbar-bright {
@@ -105,10 +105,10 @@ b, strong {
 
 
 .nav-stacked {
-    color: #ffa903;
+    color: #ff0303;
 }
 a {
-    color: #ffa903;
+    color: #ff0303;
     transition: all 0.5s ease-in-out;
 }
 a:hover {
@@ -119,7 +119,7 @@ nav a:hover {
 }
     
 .nav-stacked a {
-    color: #ffa903;
+    color: #ff0303;
     text-decoration: none;
 
     
@@ -128,7 +128,7 @@ nav a:hover {
 pre code {
 	padding: 0;
 	font-size: inherit;
-	color: #ffa903;
+	color: #ff0303;
     white-space:pre-wrap;
 	background-color: transparent;
 	border-radius: 0
@@ -143,7 +143,7 @@ pre code {
 
 .box {
     background-color: #22222273;
-    color: #ffa903;
+    color: #ff0303;
     padding: 15px 15px 15px 15px;
     margin-bottom: 5px;   
     border-radius: 3px;

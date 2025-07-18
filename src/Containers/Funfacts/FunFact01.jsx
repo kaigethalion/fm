@@ -54,7 +54,7 @@ const FunFact01 = () => {
                     </div>
                     <div className="col-lg-4">
                         <div className="man_img">
-                            <img src="images/funfact/img_fun.png" alt="icon" />
+                            <img src="images/funfact01/logo_ffm.png" alt="icon" />
                         </div>
                     </div>
                 </div>

@@ -35,8 +35,8 @@ const Team = (props) => {
             <div className="container">
                 <div className="section_header text-center">
                     <div className="shadow_icon"><img src="images/shadow_icon5.png" alt="" /></div>
-                    <h6 className="section_sub_title">OUR TEAM MEMBERS</h6>
-                    <h1 className="section_title">Meet Our Amazing Team</h1>
+                    <h6 className="section_sub_title">fuck yo TEAM MEMBERS</h6>
+                    <h1 className="section_title">Venice Gang Amazing Team</h1>
                     <p className="section_desc">Freedom Forest Mangement is the best constructioncompany. It has best team who are provideing best service possible.</p>
                 </div>
                 <div className="row">

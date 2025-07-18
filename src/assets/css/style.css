@@ -12,9 +12,9 @@
 
 :root {
   --primary-color: #00326F;
-  --second-color: #FFA903;
+  --second-color: #ff0303;
   --body-color: #6E7A7A;
-  --text-heading-color: #00234B;
+  --text-heading-color: #c30303;
   --heading-color: #002A5C;
   --testimonial-below-color: #979A9F;
   --testimonial-paragraph-color: #656A7C;
@@ -556,7 +556,7 @@ textarea.form-control:focus {
   vertical-align: middle;
   z-index: 1;
   position: relative;
-  background: #FFA903;
+  background: #ff0303;
   width: 150px;
   height: 140px;
   line-height: 22px;
@@ -568,7 +568,7 @@ textarea.form-control:focus {
   left: 20px;
   width: 100px;
   height: 100px;
-  background: #B47700;
+  background: #b40000;
   top: -44px;
   transform: rotate(50deg);
   z-index: -1;
@@ -790,7 +790,7 @@ textarea.form-control:focus {
 
 .another_bg_image::before {
   position: absolute;
-  content: "";
+  content: "/images/fireRelief.png";
   background: var(--heading-color);
   width: 789px;
   height: 100%;
@@ -1975,7 +1975,7 @@ textarea.form-control:focus {
   height: 2px;
   background: var(--second-color);
   height: 4px;
-  background: rgba(255, 169, 3, 0.5);
+  background: rgb(255, 3, 3);
   left: 0;
   top: 39px;
 }
@@ -4636,7 +4636,7 @@ video {
   height: 100%;
   text-transform: uppercase;
   font-size: 30px;
-  color: #FFA903;
+  color: #ff0303;
   background: #00326F;
   font-weight: 700;
   cursor: pointer;
@@ -8979,7 +8979,7 @@ video {
 
 .dark-theme {
   --primary-color: #00326F;
-  --second-color: #FFA903;
+  --second-color: #ff0303;
   --body-color: #aeb6c2;
   --text-heading-color: #00234B;
   --heading-color: #002A5C;

@@ -85,7 +85,7 @@ const Footer = () => {
                             <a href="index"><img src="/Users/kaigedalion/Freedom Forest Management Logo PRINT.PNG" alt="Logo" /></a>
                         </div>
                         <div className="copyright">
-                            <p>&copy;2023 <a href="https://themeforest.net/user/wpthemebooster">WPThemeBooster.</a> All rights reserved.</p>
+                            <p>&copy;2025 <a href="https://dencoding.studio">DENcoding Studios Inc.</a> All rights reserved.</p>
                         </div>
                         <div className="footer_nav_bottom">
                             <ul>

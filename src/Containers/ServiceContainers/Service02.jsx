@@ -25,14 +25,14 @@ const Service02 = () => {
             id: '3',
             img: 'images/services/s7.png',
             img02: 'images/services/Service_Hover_images/3.jpg',
-            tag: 'DEMOLITION',
+            tag: 'falon',
             title: 'Extraordinary projects demand a strategic and intelligent approach, finely.'
         },
         {
             id: '4',
             img: 'images/services/s6.png',
             img02: 'images/services/Service_Hover_images/4.jpg',
-            tag: 'HIGHRISE BUILDING',
+            tag: 'Kaige & Falon',
             title: 'Freedom Forest Mangement is the safe, reliable & cost effective construction company.'
         },
         {

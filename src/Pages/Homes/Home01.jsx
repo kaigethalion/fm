@@ -19,12 +19,8 @@ const Home01 = () => {
 
             <ProjectHome01 />
 
-            <Banner
-                title='Freedom Forest is The Shit'
-                heading='Call Us Anytime'
-                phone='we at Levi"s'
-                bannerType='banner type_3'
-            />
+        
+        
 
             <Testimonial01 pb='pd_btom_80' />
 
